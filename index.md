@@ -8,7 +8,7 @@
 			embeddedservice_bootstrap.init(
 				'00Dx00000008aLX',
 				'Agents0102_MIAW',
-				'https://ciscosales.perf2r.pc-rnd.force.com/ESWAgents0102MIAW1737461420750',
+				'https://ciscosales.perf2r.pc-rnd.force.com/ESW_Agents0102_MIAW_17374614207501',
 				{
 					scrt2URL: 'https://syntheticciscosales5.perf2r.my.pc-rnd.salesforce-scrt.com'
 				}
