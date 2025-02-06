@@ -1,5 +1,7 @@
 <html>
   <body>
+	  <h1> In APP Web Client"</h1>
+
     <script type='text/javascript'>
 	function initEmbeddedMessaging() {
 		try {
